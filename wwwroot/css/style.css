@@ -1,9 +1,9 @@
-.border-nav{
+.border-nav {
     border-bottom: 4px solid rgb(202, 108, 0);
 }
 
-.header1{
-    width:100%;
+.header1 {
+    width: 100%;
     height: 470px;
     background-image: url("../../../../images/bg/bg.jpg");
     background-position: center;
@@ -11,8 +11,9 @@
     background-size: cover;
     position: relative;
 }
-.header2{
-    width:100%;
+
+.header2 {
+    width: 100%;
     height: 470px;
     background-image: url("~/images/bg/bg9.jpg");
     background-position: center;
@@ -21,27 +22,33 @@
     position: relative;
 }
 
-.logo{
+.logo {
     width: 100px;
 }
-.logo1{
+
+.logo1 {
     width: 220px;
 }
-.logo-rocket{
+
+.logo-rocket {
     width: 40px;
 }
-.font{
+
+.font {
     color: rgb(255, 136, 0);
     font-size: 20px;
 }
-.font{
+
+.font {
     margin-top: 10%;
 }
-.font1{
+
+.font1 {
     margin-top: 9%;
-    margin-left:1%;
+    margin-left: 1%;
 }
-.font2{
+
+.font2 {
     margin-top: 9%;
     font-size: 3em;
     font-family: 'Quicksand', sans-serif;
@@ -49,29 +56,31 @@
     color: rgb(255, 136, 0);
     margin-left: 1%;
 }
-.font3{
+
+.font3 {
     margin-top: 1%;
     font-size: 1.1em;
 }
 
-.top1{
+.top1 {
     margin-top: 5%;
 }
-.top2{
-    margin-top:-1%;
+
+.top2 {
+    margin-top: -1%;
     margin-bottom: -5%;
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
 }
 
-.top3{
-    margin-top:-1%;
+.top3 {
+    margin-top: -1%;
     margin-bottom: -2%;
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
 }
 
-.icon-size{
+.icon-size {
     width: 40px;
 }
 
@@ -81,91 +90,101 @@
     background-color: #fffaf4;
     border-radius: 0.3rem;
     box-shadow: 0 8px 16px -6px rgba(0, 0, 0, 0.253);
-  }
+}
 
-  .img-size-profile{
+.img-size-profile {
     border-radius: 50% !important;
-    width:70px;
+    width: 70px;
     padding: 0em;
     border: 5px solid #ffffff;
     -webkit-box-shadow: 0px 13px 26px -9px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 13px 26px -9px rgba(0,0,0,0.75);
     box-shadow: 0px 13px 26px -9px rgba(0,0,0,0.75);
     margin-bottom: 3%;
-  }
+}
 
-  .font-detail{
-      margin-top: -4%;
-      font-size: 10px;
-      color: gray;   
-  }
-  .font-detail2{
+.font-detail {
+    margin-top: -4%;
+    font-size: 10px;
+    color: gray;
+}
+
+.font-detail2 {
     margin-top: -2%;
     font-size: 10px;
-    color: gray;   
-  }
-  .font-detail3{
+    color: gray;
+}
+
+.font-detail3 {
     margin-top: -3%;
     font-size: 10px;
-    color: gray;  
-    margin-bottom: -3%; 
-  }
-  .font-detail4{
+    color: gray;
+    margin-bottom: -3%;
+}
+
+.font-detail4 {
     margin-top: -7%;
     font-size: 12px;
     margin-bottom: -3%;
-    color: gray; 
+    color: gray;
     line-height: 1.7;
-  }
-  .logo2{
-      width: 20px;
-  }
+}
 
-  .img-size-profile2{
+.logo2 {
+    width: 20px;
+}
+
+.img-size-profile2 {
     border-radius: 50% !important;
-    width:70px;
+    width: 70px;
     padding: 0.2em;
-  }
+}
 
-  .font-comment{
+.font-comment {
     margin-top: 2%;
     font-size: 16px;
     font-weight: 500;
     font-family: 'Yantramanav', sans-serif;
     line-height: 1.1;
-  }
-  .font-comment2{
+}
+
+.font-comment2 {
     margin-top: 2%;
     font-size: 16px;
     font-weight: 500;
     font-family: 'kanit', sans-serif;
     line-height: 1.1;
     color: rgb(3, 111, 184);
-  }
+}
 
-  .time{
-      font-size: 10px;
-      color: gray;
-  }
-  .comment{
+.time {
+    font-size: 10px;
+    color: gray;
+}
+
+.comment {
     font-size: 10px;
     color: rgb(54, 33, 4);
     font-weight: 500;
-  }
-  .m-bottom{
+}
+
+.m-bottom {
     margin-bottom: 7%;
-  }
-  .correct{
+}
+
+.correct {
     width: 20px;
-  }
-  .font-correct{
-    margin-top:10%;
+}
+
+.font-correct {
+    margin-top: 10%;
     font-family: 'Yantramanav', sans-serif;
     font-weight: 500;
     font-size: 15px;
     color: rgb(3, 111, 184);
-  }
-  .btn1 {
+}
+
+.btn1 {
     background-color: rgb(252, 180, 97);
     display: inline-block;
     font-weight: 400;
@@ -182,113 +201,118 @@
     line-height: 1.5;
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  }
+}
 
-  .left{
-      margin-left: -5%;
-  }
+.left {
+    margin-left: -5%;
+}
 
-  .detail-com{
-      font-size: 13px;
-      margin-top:-2%;
-  }
-  .top5{
-      margin-top: -2%;
-  }
+.detail-com {
+    font-size: 13px;
+    margin-top: -2%;
+}
 
-  .top6{
+.top5 {
+    margin-top: -2%;
+}
+
+.top6 {
     margin-top: 5%;
-  }
+}
 
-  .top7{
+.top7 {
     margin-top: 2%;
-  }
-  .ad{
+}
+
+.ad {
     width: 370px;
     border-radius: 8px;
     -webkit-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
     -moz-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
     box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
-  }
-  
-  
-  .container1 {
+}
+
+
+.container1 {
     position: relative;
     width: 100%;
     max-width: 400px;
 }
 
-.container1 img {
-    width: 100%;
-    height: auto;
-}
+    .container1 img {
+        width: 100%;
+        height: auto;
+    }
 
-.container1 .btn2 {
-    position: absolute;
-    top: 70%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: rgb(252, 142, 17);
-    color: white;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    text-align: center;
-    -webkit-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
-    -moz-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
-    box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
-}
+    .container1 .btn2 {
+        position: absolute;
+        top: 70%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: rgb(252, 142, 17);
+        color: white;
+        font-size: 16px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+        -webkit-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
+        -moz-box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
+        box-shadow: -2px 5px 9px -5px rgba(0,0,0,0.54);
+    }
 
-.container1 .btn2:hover {
-    background-color: rgb(255, 182, 86);
-}
+        .container1 .btn2:hover {
+            background-color: rgb(255, 182, 86);
+        }
 
-.font-name{
+.font-name {
     margin-top: 5%;
     margin-left: 10%;
     font-size: 20px;
     font-weight: 500;
     font-family: 'kanit', sans-serif;
     line-height: 1.1;
-    color: rgb(3, 111, 184);    
+    color: rgb(3, 111, 184);
 }
-.font-content{
-    margin-top:-5%;
+
+.font-content {
+    margin-top: -5%;
     margin-left: 10%;
     font-size: 12px;
     font-weight: 300;
     font-family: 'Yantramanav', sans-serif;
     line-height: 1.1;
-    color: rgb(172, 172, 172);  
+    color: rgb(172, 172, 172);
 }
 
-.icon2{
-    width:40px;
+.icon2 {
+    width: 40px;
 }
 
-.font-badges{
-    margin-top:-5%;
+.font-badges {
+    margin-top: -5%;
     font-size: 15px;
     font-weight: 300;
     font-family: 'Yantramanav', sans-serif;
     line-height: 1.1;
-    color: rgb(71, 71, 71);  
+    color: rgb(71, 71, 71);
 }
-.font-badges2{
-    margin-top:-5%;
+
+.font-badges2 {
+    margin-top: -5%;
     margin-left: 2%;
     font-size: 25px;
     font-weight: 500;
     font-family: 'Yantramanav', sans-serif;
     line-height: 1.1;
-    color: rgb(3, 111, 184);  
+    color: rgb(3, 111, 184);
     margin-right: 3%;
 }
-.font-badges3{
-    margin-top:-5%;
+
+.font-badges3 {
+    margin-top: -5%;
     margin-left: 2%;
     font-size: 25px;
     font-weight: 500;
@@ -296,25 +320,25 @@
     line-height: 1.1;
     color: #333;
 }
-.b-margin{
+
+.b-margin {
     margin-bottom: -7%;
 }
 
-.footer {   
-    margin-top:7%; 
+.footer {
+    position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
     background-color: #fcb75e;
     text-align: center;
-    bottom:0px;
-    height: 100px;
-  }
+    height: 80px;
+}
 
-  .top7{
-      margin-top:2%;
-  }
+.top7 {
+    margin-top: 1%;
+}
 
 .twPc-div {
     background: #fff none repeat scroll 0 0;
@@ -429,4 +453,167 @@ ul.twPc-Arrange {
     float: right;
     right: 0;
     position: absolute;
+}
+
+
+.header-login {
+    width: 100%;
+    height: 150px;
+    background-image: url("../../../../images/cover/banner-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 3%;
+}
+
+.font-login {
+    font-size: 1.9em;
+    margin-bottom: 2%;
+    font-weight: 600;
+    color: #E35625;
+}
+
+.font-topic-login {
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.width-button {
+    width: 100%;
+    background-color: #E35625;
+    font-weight: 500;
+    color: white;
+}
+
+.width-button-new-account {
+    width: 100%;
+    background-color: #d4d4d4;
+    font-weight: 500;
+    color: black;
+}
+
+.font-create {
+    font-weight: 600;
+}
+
+.line-right {
+    border-right: 2px;
+}
+
+.margin-head {
+    margin-top: 5%;
+}
+
+.margin-bottom {
+    margin-bottom: 5%;
+}
+
+.img-login {
+    width: 100%;
+    margin-right: 3%;
+}
+
+.line {
+    width: 100%;
+    height: 15px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.text-line {
+    font-size: 14px;
+    background-color: white;
+    padding: 0 10px;
+    font-family: 'Yantramanav', sans-serif;
+    font-weight: 300;
+}
+
+.font-forgetpassword {
+    text-align: right;
+    margin-top: 1%;
+}
+
+.section-forgetpassword > .top {
+    margin-top: 5%;
+}
+
+.section-forgetpassword > .container > .top {
+    margin-top: 1%;
+}
+
+.section-forgetpassword > .container > .row > .text-forgetpassword {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 2em;
+    color: #E35625;
+}
+
+.section-forgetpassword > .container > .row > .col-sm-6 > .detail-forgetpassword {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.4em;
+    line-height: 1;
+    color: black;
+}
+
+.top-line {
+    margin-top: -0.1em;
+}
+
+.section-forgetpassword > .container > .row > .col-sm-4 > .top {
+    margin-top: 4%;
+}
+
+
+/*reset password*/
+.section-resetpassword > .top {
+    margin-top: 5%;
+}
+
+.section-resetpassword > .container > .top {
+    margin-top: 1%;
+}
+
+.section-resetpassword > .container > .row > .text-resetpassword {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 2em;
+    color: #E35625;
+}
+
+.section-resetpassword > .container > .row > .col-sm-6 > .detail-resetpassword {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.4em;
+    line-height: 1;
+    color: black;
+}
+
+.section-resetpassword > .container > .row > .col-sm-4 > .top {
+    margin-top: 4%;
+}
+
+/*create account*/
+.section-create-account > .top {
+    margin-top: 5%;
+}
+
+.section-create-account > .container > .top {
+    margin-top: 1%;
+}
+
+.section-create-account > .container > .row > .text-create-account {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 2em;
+    color: #E35625;
+}
+
+.section-create-account > .container > .row > .col-sm-6 > .detail-create-account {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.4em;
+    line-height: 1;
+    color: black;
+}
+
+.section-create-account > .container > .row > .col-sm-4 > .top {
+    margin-top: 4%;
 }
