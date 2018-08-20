@@ -455,11 +455,9 @@ ul.twPc-Arrange {
     position: absolute;
 }
 
-<<<<<<< HEAD:wwwroot/css/style.css
 .login-section {
     height: 420px;
-=======
-
+}
 .header-login {
     width: 100%;
     height: 150px;
@@ -620,5 +618,4 @@ ul.twPc-Arrange {
 
 .section-create-account > .container > .row > .col-sm-4 > .top {
     margin-top: 4%;
->>>>>>> 04bc2decb00848c25ea92c8f4cf5e23e5ec0f353:wwwroot/css/style.css
 }
