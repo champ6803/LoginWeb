@@ -6,11 +6,22 @@
             AuthenticationService.Login(o.username, o.password, function (result) {
                 if (result === true) {
                     alert('ยินดีต้อนรับเข้าสู่ระบบ');
-                    window.location.href = "/";
+                    var m = JSON.parse(localStorage.currentUser);
+                    if (m.role == "Recruitment") {
+                        window.location.href = "http://localhost:8002?access_token=" + m.token;
+                    } else if (m.role == "Community") {
+                        window.location.href = "http://localhost:8001?access_token=" + m.token;
+                    } else {
+                        window.location.href = "/";
+                    }
+                    
                 } else {
                     alert('ไม่สามารถเข้าสู่ระบบได้');
                 }
             });
+        }
+        else {
+            alert("ไม่สามารถเข้าสู่ระบบได้");
         }
     };
 });

@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Account";
+}
+
+<section class="section-create-account">
+    <div class="container top">
+        <div class="row justify-content-center">
+            <div class="col-sm-6 text-create-account">
+                Create New Account
+                <p class="detail-create-account">Please input your information to create new account.</p>
+                <hr class="top-line" />
+            </div>
+        </div>
+        <div class="row justify-content-center top">
+            <div class="col-sm-4">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                    </div>
+                    <input type="text" class="form-control" ng-model="loginForm.username" id="" placeholder="Email">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center top">
+            <div class="col-sm-4">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"><i class="fa fa-lock" aria-hidden="true"></i></div>
+                    </div>
+                    <input type="text" class="form-control" ng-model="loginForm.username" id="" placeholder="Password">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center top">
+            <div class="col-sm-4">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"><i class="fa fa-lock" aria-hidden="true"></i></i></div>
+                    </div>
+                    <input type="text" class="form-control" ng-model="loginForm.username" id="" placeholder="Confirm Password">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center top">
+            <div class="col-sm-4">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"><i class="fa fa-user" aria-hidden="true"></i></div>
+                    </div>
+                    <input type="text" class="form-control" ng-model="loginForm.username" id="" placeholder="Username">
+                </div>
+                <button class="btn btn-default width-button top">Continue</button>
+            </div>
+        </div>
+    </div>
+</section>
+

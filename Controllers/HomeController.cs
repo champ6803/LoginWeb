@@ -15,21 +15,22 @@ namespace LoginWeb.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Password()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult ForgetPassword()
         {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ResetPassword()
+        {
+            return View();
+        }
+
+        public IActionResult NewAccount()
         {
             return View();
         }
