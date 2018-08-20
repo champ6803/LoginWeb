@@ -455,7 +455,9 @@ ul.twPc-Arrange {
     position: absolute;
 }
 
-
+.login-section {
+    height: 420px;
+}
 .header-login {
     width: 100%;
     height: 150px;

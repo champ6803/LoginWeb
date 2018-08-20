@@ -14,10 +14,7 @@ D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.AssemblyInfo.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.TagHelpers.input.cache
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.TagHelpers.output.cache
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.RazorCoreGenerate.cache
-D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -92,3 +89,8 @@ D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ForgetPassword.g
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\NewAccount.g.cshtml.cs
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Password.g.cshtml.cs
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPassword.g.cshtml.cs
+D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\Login.g.cshtml.cs
+D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ForgetPassword.g.cshtml.cs
+D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\NewAccount.g.cshtml.cs
+D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Password.g.cshtml.cs
+D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPassword.g.cshtml.cs
