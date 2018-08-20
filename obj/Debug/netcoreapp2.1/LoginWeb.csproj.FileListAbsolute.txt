@@ -88,7 +88,7 @@ D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.Views.pdb
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.dll
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.pdb
 D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\LoginWeb.csproj.CopyComplete
-D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Password\Password.g.cshtml.cs
-D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Password\ForgetPassword.g.cshtml.cs
-D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Password\ResetPassword.g.cshtml.cs
-D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\NewAccount.g.cshtml.cs
+D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ForgetPassword.g.cshtml.cs
+D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\NewAccount.g.cshtml.cs
+D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Password.g.cshtml.cs
+D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPassword.g.cshtml.cs
