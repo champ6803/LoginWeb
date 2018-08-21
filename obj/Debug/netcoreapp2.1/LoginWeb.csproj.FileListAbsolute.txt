@@ -94,3 +94,4 @@ D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ForgetPasswo
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\NewAccount.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Password.g.cshtml.cs
 D:\Workspace\KMOS\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\ResetPassword.g.cshtml.cs
+D:\jidapa\ITO\LoginWeb\obj\Debug\netcoreapp2.1\Razor\Views\Authentication\Login.g.cshtml.cs

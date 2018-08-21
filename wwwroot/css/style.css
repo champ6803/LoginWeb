@@ -542,17 +542,17 @@ ul.twPc-Arrange {
     margin-top: 5%;
 }
 
-.section-forgetpassword > .container > .top {
+.forget-input-email-top {
     margin-top: 1%;
 }
 
-.section-forgetpassword > .container > .row > .text-forgetpassword {
+.text-forgetpassword {
     font-family: 'Yantramanav', sans-serif;
     font-size: 2em;
     color: #E35625;
 }
 
-.section-forgetpassword > .container > .row > .col-sm-6 > .detail-forgetpassword {
+.detail-forgetpassword {
     font-family: 'Quicksand', sans-serif;
     font-size: 0.4em;
     line-height: 1;
@@ -563,7 +563,7 @@ ul.twPc-Arrange {
     margin-top: -0.1em;
 }
 
-.section-forgetpassword > .container > .row > .col-sm-4 > .top {
+.forget-button-top {
     margin-top: 4%;
 }
 
@@ -573,24 +573,24 @@ ul.twPc-Arrange {
     margin-top: 5%;
 }
 
-.section-resetpassword > .container > .top {
+.resetpassword-input-top {
     margin-top: 1%;
 }
 
-.section-resetpassword > .container > .row > .text-resetpassword {
+.text-resetpassword {
     font-family: 'Yantramanav', sans-serif;
     font-size: 2em;
     color: #E35625;
 }
 
-.section-resetpassword > .container > .row > .col-sm-6 > .detail-resetpassword {
+.detail-resetpassword {
     font-family: 'Quicksand', sans-serif;
     font-size: 0.4em;
     line-height: 1;
     color: black;
 }
 
-.section-resetpassword > .container > .row > .col-sm-4 > .top {
+.resetpassword-button-top {
     margin-top: 4%;
 }
 
@@ -599,23 +599,23 @@ ul.twPc-Arrange {
     margin-top: 5%;
 }
 
-.section-create-account > .container > .top {
+.newaccount-input-top {
     margin-top: 1%;
 }
 
-.section-create-account > .container > .row > .text-create-account {
+.text-create-account {
     font-family: 'Yantramanav', sans-serif;
     font-size: 2em;
     color: #E35625;
 }
 
-.section-create-account > .container > .row > .col-sm-6 > .detail-create-account {
+.detail-create-account {
     font-family: 'Quicksand', sans-serif;
     font-size: 0.4em;
     line-height: 1;
     color: black;
 }
 
-.section-create-account > .container > .row > .col-sm-4 > .top {
+.newaccount-button-top {
     margin-top: 4%;
 }
