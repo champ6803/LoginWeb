@@ -11,21 +11,24 @@
                         Login
                     </div>
                     <div class="col-sm-10">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <div class="input-group-prepend">
-                                    <div class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                        <form name="LoginForm">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <div class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                                    </div>
+                                    <input type="email" name="inputemail" class="form-control" ng-pattern="/^\w+@@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/" ng-model="email" id="" placeholder="Email" require><br />
                                 </div>
-                                <input type="text" class="form-control" ng-model="loginForm.username" id="" placeholder="Email">
+                                <span class="text-input-warnning" ng-show="LoginForm.inputemail.$dirty&&LoginForm.inputemail.$error.pattern">Please enter valid email address.</span>
                             </div>
-                        </div>
-                        <button class="btn btn-default width-button">Next</button>
-                        <div class="line">
-                            <span class="text-line">
-                                New to G-ABLE Community
-                            </span>
-                        </div>
-                        <button class="btn btn-default width-button-new-account font-create">Create a new account</button>
+                            <button class="btn btn-default width-button" ng-click="checkEmail(email)">Next</button>
+                            <div class="line">
+                                <span class="text-line">
+                                    New to G-ABLE Community
+                                </span>
+                            </div>
+                            <button class="btn btn-default width-button-new-account font-create" ng-click="creareNewAccount()">Create a new account</button>
+                        </form>
                     </div>
                 </div>
             </div>

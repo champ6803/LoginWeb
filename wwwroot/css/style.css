@@ -458,6 +458,7 @@ ul.twPc-Arrange {
 .login-section {
     height: 420px;
 }
+
 .header-login {
     width: 100%;
     height: 150px;
@@ -535,8 +536,17 @@ ul.twPc-Arrange {
 
 .font-forgetpassword {
     text-align: right;
-    margin-top: 1%;
+    margin-top: 2%;
 }
+
+button ~ a {
+    color: rgb(202, 108, 0);
+}
+
+    button ~ a:hover {
+        text-decoration: none;
+        color: #5b3019;
+    }
 
 .section-forgetpassword > .top {
     margin-top: 5%;
@@ -618,4 +628,11 @@ ul.twPc-Arrange {
 
 .newaccount-button-top {
     margin-top: 4%;
+}
+
+/*warining input*/
+.text-input-warnning {
+    color: red;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
 }

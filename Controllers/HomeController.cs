@@ -15,7 +15,7 @@ namespace LoginWeb.Controllers
             return View();
         }
 
-        public IActionResult Password()
+        public IActionResult Login()
         {
             return View();
         }
